@@ -1,2 +1,2 @@
 # Recommendation
-- Collaborative Filtering
+- Collaborative Filtering with Python and R
