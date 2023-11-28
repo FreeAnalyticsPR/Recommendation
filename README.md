@@ -1,2 +1,2 @@
-# Recommendation
-- Collaborative Filtering with Python and R
+# Coding practices
+- Collaborative Filtering with Python/R
