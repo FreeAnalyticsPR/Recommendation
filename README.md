@@ -1,4 +1,4 @@
-# レコメンド
+# 推薦システム
 ### 実装例
 1. 協調フィルタリング
     * [Python](https://github.com/Satoru-Shibata-JPN/Recommendation/blob/main/Python_CollaborativeFiltering.ipynb)
